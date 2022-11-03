@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 🔭 I’m currently working on
-  My portfolio
+- My portfolio
 
 🌱 I’m currently learning
-  HTML
-  JS
+- HTML
+- JS
 
  
 <!--
