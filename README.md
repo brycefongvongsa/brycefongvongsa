@@ -4,7 +4,6 @@
 - My portfolio
 
 🌱 I’m currently learning
-- HTML
 - JS
 
  
